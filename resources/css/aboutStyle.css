@@ -1,0 +1,29 @@
+#bigContain{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#bigContain img{
+    margin-top: 5vmin;
+}
+
+
+#contain{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#contain ul{
+    list-style-type: none;
+    padding: 0;
+    margin-left: 5vmin;
+    margin-right: 5vmin;
+}
+
+#contain ul li p{
+    text-align: center;
+}

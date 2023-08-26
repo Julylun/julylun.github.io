@@ -1,0 +1,22 @@
+#bigContain{
+    width: 100%;
+    height: 15%;
+    overflow: hidden;
+}
+.contain img{
+
+    position: relative;;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 50%;
+    margin-top: -250px;
+    opacity: 50%;
+}
+
+#bigContain p{
+    z-index: 2;
+    position: absolute;
+    margin: 0;
+    top: -2vmin;
+}
